@@ -1,0 +1,48 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.my-color {
+    background-color: rgba(186, 43, 226, 0.80);
+    color: var(--bs-white);
+}
+
+.my-text {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.option-container {
+    text-align: center;
+    border-bottom: 3px;
+    py: -3px;
+}
+
+.my-color-two {
+    background-color: rgba(240, 235, 241, 0.8);
+    color: var(--bs-gray);
+    font-weight: bold;
+    font-size: larger;
+}
+
+.my-color-three {
+    background-color: rgba(228, 144, 245, 0.652);
+    color: var(--bs-gray);
+    font-weight: bold;
+    font-size: larger;
+}
+
+
+.add-button {
+    color: #FFF;
+    font-size:xx-large;
+    font-weight: bold;
+    -ms-text-size-adjust: auto;
+    background-color: rgba(186, 43, 226, 0.80);
+    border: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
